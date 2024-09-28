@@ -1,0 +1,46 @@
+.container2 {
+    height: 550px;
+    width: 500px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #f7f7f7;
+    border-radius: 20px;
+  }
+.lname{
+    margin-top: 5px;
+}
+.email{
+    margin-top: 5px;
+}
+.password{
+    margin-top: 5px;
+}
+  .button2 {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .registerform input {
+    width: 500px;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 1.5;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .registerform input::placeholder {
+    color: #999;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+  }
+
+
+  
+  
+  
+ 
+  
+  

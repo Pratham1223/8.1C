@@ -1,0 +1,40 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .column {
+    border: 3px solid #2f2c2c;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    margin: 4px;
+    flex-basis: calc(30.33% - 10px);
+  }
+  h1 {
+    text-align: center;
+    margin: 20px 0; 
+  }
+  
+  .single {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    margin-top: 10px;
+  }
+  .section {
+    display: flex;
+    flex-direction: column;
+  
+  }
+  .button2{
+    padding: 20px;
+    font-size: large;
+   
+  }
+  .button-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 10px;
+  }
